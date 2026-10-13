@@ -1,0 +1,447 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.10f1 (3bd4f66ad299) revision 3921142'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-USER" at "2026-10-13T02:36:43.6940547Z"
+OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 16094 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-10-13T02:36:43Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW0
+-projectPath
+D:/AR/AR_2924011_Robi Fernando Putra
+-logFile
+Logs/AssetImportWorkerHW0.log
+-srvPort
+58196
+-parentPid
+6800
+-analyticsCloudUserId
+anonymous
+-analyticsCloudProjectId
+8edfb07d-d55a-4cc8-a9fc-3c2c746287e6
+-analyticsLocalProjectId
+9eccac3bfee38d84c960f1b936f294f6
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+1d6d9086e462e9d2e091317ea5d7137fbd1fadf8
+-cbmMachineId
+cZFvobxIrWpFoVJFc3XzqGFbYiw=
+-licensingIpc
+LicenseClient-USER
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: D:/AR/AR_2924011_Robi Fernando Putra
+D:/AR/AR_2924011_Robi Fernando Putra
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [9096]  Target information:
+
+Player connection [9096]  * "[IP] 192.168.15.230 [Port] 0 [Flags] 2 [Guid] 3834293954 [EditorId] 3834293954 [Version] 1048832 [Id] WindowsEditor(7,3E-05) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9096]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3834293954 [EditorId] 3834293954 [Version] 1048832 [Id] WindowsEditor(7,3E-05) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9096]  * "[IP] 192.168.137.1 [Port] 0 [Flags] 2 [Guid] 3834293954 [EditorId] 3834293954 [Version] 1048832 [Id] WindowsEditor(7,3E-05) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9096] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9096] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.5.10f1 (3bd4f66ad299)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/AR/AR_2924011_Robi Fernando Putra/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 3050 (ID=0x2582)
+    Vendor:          NVIDIA
+    VRAM:            8041 MB
+    App VRAM Budget: 7273 MB
+    Driver:          32.0.15.9186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-USER"
+[Licensing::IpcConnector] LicenseClient-USER channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-USER-6000.5.10" at "2026-10-13T02:36:45.4502334Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 19188, path: "C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              71ca7f2449664dd48f2814e477f2f2ab
+  Correlation Id:          5b394a3f3048383ded269ec9dfbbce74
+  External correlation Id: 5832642684993615228
+  Machine Id:              cZFvobxIrWpFoVJFc3XzqGFbYiw=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-USER-6000.5.10" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-USER-6000.5.10-notifications" at "2026-10-13T02:36:45.4610355Z"
+[Licensing::Module] Licensing Background thread has ended after 1.77s
+[Licensing::Module] Licensing is initialized (took 1.08s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 18968491515105-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 1.079289 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.388 seconds
+Domain Reload Profiling: 1903ms
+	BeginReloadAssembly (106ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (1134ms)
+	LoadAllAssembliesAndSetupDomain (257ms)
+		LoadAssemblies (105ms)
+		AnalyzeDomain (187ms)
+			TypeCache.Refresh (186ms)
+				TypeCache.ScanAssembly (173ms)
+	FinalizeReload (389ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (83ms)
+			ProcessInitializeOnLoadMethodAttributes (166ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 3: URL rejected: Malformed input to a URL function
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.713 seconds
+Domain Reload Profiling: 1300ms
+	BeginReloadAssembly (159ms)
+		DisableScriptedObjects (7ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (365ms)
+		LoadAssemblies (214ms)
+		AnalyzeDomain (148ms)
+			TypeCache.Refresh (100ms)
+				TypeCache.ScanAssembly (90ms)
+			BuildScriptInfoCaches (42ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (713ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (177ms)
+			ProcessInitializeOnLoadMethodAttributes (114ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Unloading 83 Unused Serialized files (Serialized files now loaded: 0)
+Curl error 3: URL rejected: Malformed input to a URL function
+Unloading 5031 unused Assets / (14.3 MB). Loaded Objects now: 5943.
+Memory consumption went from 318.5 MB to 304.1 MB.
+Total: 9.556400 ms (FindLiveObjects: 0.490200 ms CreateObjectMapping: 0.589200 ms MarkObjects: 3.927400 ms  DeleteObjects: 4.547400 ms)
+
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.587 seconds
+Domain Reload Profiling: 1045ms
+	BeginReloadAssembly (181ms)
+		DisableScriptedObjects (13ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (213ms)
+		LoadAssemblies (188ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (5ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (588ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (180ms)
+			ProcessInitializeOnLoadMethodAttributes (119ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5029 unused Assets / (12.5 MB). Loaded Objects now: 5946.
+Memory consumption went from 306.9 MB to 294.4 MB.
+Total: 8.897100 ms (FindLiveObjects: 0.551300 ms CreateObjectMapping: 0.399700 ms MarkObjects: 3.897000 ms  DeleteObjects: 4.048400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (6.6 MB). Loaded Objects now: 5946.
+Memory consumption went from 304.2 MB to 297.7 MB.
+Total: 9.713400 ms (FindLiveObjects: 0.384400 ms CreateObjectMapping: 0.386000 ms MarkObjects: 6.615600 ms  DeleteObjects: 2.325700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:42:57.3914621Z
+  Time since last request: 517017.17047289997572 seconds.
+  importAddress: GUID: cd534ff997b41044aaca188e2b6fbdb0 - Path: Assets/Scenes/Pertemuan02_Diorama1.unity - Importer: PreviewImporter
+Importing 'GUID: cd534ff997b41044aaca188e2b6fbdb0 - Path: Assets/Scenes/Pertemuan02_Diorama1.unity - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cd534ff997b41044aaca188e2b6fbdb0' -> (Import Result ID: '121b74a49216720068be5f6725386ce9') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a47d829def661c80e89d10c95968fd87 DependenciesID=cdabd90709bd336ad3ca24c69a5e8258 StaticDependenciesID=ea6503d64706f31a387cd0f484d9c742 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:43:47.0942905Z
+  Time since last request: 49.6867834 seconds.
+  importAddress: GUID: 2b4bbc24d57f9a341ae38864e02bbd50 - Path: Assets/Scenes - Importer: PreviewImporter
+Importing 'GUID: 2b4bbc24d57f9a341ae38864e02bbd50 - Path: Assets/Scenes - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 2b4bbc24d57f9a341ae38864e02bbd50' -> (Import Result ID: 'eb91e817725f9e67820d05225b8b1c48') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=669bc9e56ee2640dde34d0da81c439d0 DependenciesID=789d9ce2a4db0e687ed53badeed3afd9 StaticDependenciesID=d73649329fc81e69af40b8ea44c4084d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:44:00.8381142Z
+  Time since last request: 13.7348322 seconds.
+  importAddress: GUID: cd534ff997b41044aaca188e2b6fbdb0 - Path: Assets/Scenes/Pertemuan03_CameraAudio.unity - Importer: PreviewImporter
+Importing 'GUID: cd534ff997b41044aaca188e2b6fbdb0 - Path: Assets/Scenes/Pertemuan03_CameraAudio.unity - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cd534ff997b41044aaca188e2b6fbdb0' -> (Import Result ID: 'e455e8d23997d43a77c51a83724ab17b') in 0.000 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a47d829def661c80e89d10c95968fd87 DependenciesID=2c25ccee2fd606ebc7dda100f34bb8b1 StaticDependenciesID=5c92227554ff58fd61f53a44da6f8015 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:44:37.7618288Z
+  Time since last request: 36.9139544 seconds.
+  importAddress: GUID: cd534ff997b41044aaca188e2b6fbdb0 - Path: Assets/Scenes/Pertemuan03_CameraAudio.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: cd534ff997b41044aaca188e2b6fbdb0 - Path: Assets/Scenes/Pertemuan03_CameraAudio.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: cd534ff997b41044aaca188e2b6fbdb0' -> (Import Result ID: '3efc78662a11c5c612c9114a6cf6076b') in 0.058 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b65ecde8bba86d46e8791e8baff5ed10 DependenciesID=44467055d99eeb480661aaa4cc65280a StaticDependenciesID=bd7fd9281e8abbdb83a15eef6422ab0a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:44:37.9158764Z
+  Time since last request: 0.0894115 seconds.
+  importAddress: GUID: d2fef093995ae32458fff4dcb02a09a7 - Path: Assets/Scenes/Pertemuan02_Diorama.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: d2fef093995ae32458fff4dcb02a09a7 - Path: Assets/Scenes/Pertemuan02_Diorama.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: d2fef093995ae32458fff4dcb02a09a7' -> (Import Result ID: '6eb3f47e4ffa530396647af8c59a3c97') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ade91941017a3399d9281dffb96e1c98 DependenciesID=ab424656520b4876326e86d3a4d4f777 StaticDependenciesID=791d2f09bb09fc3dff1da13df47f0930 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (6.6 MB). Loaded Objects now: 5948.
+Memory consumption went from 304.5 MB to 297.9 MB.
+Total: 7.247000 ms (FindLiveObjects: 0.447800 ms CreateObjectMapping: 0.172900 ms MarkObjects: 4.573700 ms  DeleteObjects: 2.052000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:44:39.8292845Z
+  Time since last request: 1.9024618 seconds.
+  importAddress: GUID: d2fef093995ae32458fff4dcb02a09a7 - Path: Assets/Scenes/Pertemuan02_Diorama.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: d2fef093995ae32458fff4dcb02a09a7 - Path: Assets/Scenes/Pertemuan02_Diorama.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: d2fef093995ae32458fff4dcb02a09a7' -> (Import Result ID: 'c9af1f3e359205240b06d7d36cd6f75a') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c5da9e15f63bbd4599cac1ea5cddcfa5 DependenciesID=45ae47131b56067418c1ef9a61db7722 StaticDependenciesID=48d615abb80ab359e0704740f730be82 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:47:15.863167Z
+  Time since last request: 156.01904690000001 seconds.
+  importAddress: GUID: d2fef093995ae32458fff4dcb02a09a7 - Path: Assets/Scenes/Pertemuan02_Diorama.unity - Importer: PreviewImporter
+Importing 'GUID: d2fef093995ae32458fff4dcb02a09a7 - Path: Assets/Scenes/Pertemuan02_Diorama.unity - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d2fef093995ae32458fff4dcb02a09a7' -> (Import Result ID: 'a26de7013a54127a2cea213df3ea5300') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c41209b3389669af00f37e6bee144ca2 DependenciesID=6ad3df9e78448604e9bb1ec9a97910cb StaticDependenciesID=04348cf1ca7d33f172d2eef7324368bd 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (6.6 MB). Loaded Objects now: 5948.
+Memory consumption went from 304.5 MB to 297.9 MB.
+Total: 9.326500 ms (FindLiveObjects: 0.412800 ms CreateObjectMapping: 0.343500 ms MarkObjects: 6.517600 ms  DeleteObjects: 2.051200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:51:58.4143752Z
+  Time since last request: 282.53677449999998 seconds.
+  importAddress: GUID: b05fd9426bfbfed4387059ac65d474f3 - Path: Assets/Audio - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: b05fd9426bfbfed4387059ac65d474f3 - Path: Assets/Audio - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: b05fd9426bfbfed4387059ac65d474f3' -> (Import Result ID: '7a57da7ef52103a8062e2f57f8e49f3e') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d7149ff4040293bd65a25fc717ef7147 DependenciesID=e8b178570c893ecbe56b697b2bb90a48 StaticDependenciesID=5547f81ad45f82869928d03bf6e5adee 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:59:02.9008225Z
+  Time since last request: 424.47033640000001 seconds.
+  importAddress: GUID: befbd1ae63fb6bd60f1c66a62107d16b - Path: Assets/Audio/sfx_lonceng.wav - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: befbd1ae63fb6bd60f1c66a62107d16b - Path: Assets/Audio/sfx_lonceng.wav - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: befbd1ae63fb6bd60f1c66a62107d16b' -> (Import Result ID: '468cb710ee86c11553cbdda3ef6a9ae6') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a820d592b253ec3ff065275360d00dfc DependenciesID=efa33044059c94d28a20449ee7a20705 StaticDependenciesID=a92114272522fd79be7f81bc0500e91c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T02:59:02.9296938Z
+  Time since last request: 0.0003269 seconds.
+  importAddress: GUID: 8c64cc39516592c0975ed648d9b60eb9 - Path: Assets/Audio/sfx_mesin.wav - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 8c64cc39516592c0975ed648d9b60eb9 - Path: Assets/Audio/sfx_mesin.wav - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 8c64cc39516592c0975ed648d9b60eb9' -> (Import Result ID: '89a7c213c3df3cb6ac4ff243fe988220') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b5105b8ed132b84c243cf6b0f044b7a2 DependenciesID=53f86b8e7f6fa6e49ffbfff7acb5bf3c StaticDependenciesID=da895007d694211beeaa69b8c49e0ea2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T03:01:54.7229295Z
+  Time since last request: 171.7792269 seconds.
+  importAddress: GUID: 5202112277c55f2cbeb70053f402d4ba - Path: Assets/Audio/ambience_ruangan.wav - Importer: PreviewImporter
+Importing 'GUID: 5202112277c55f2cbeb70053f402d4ba - Path: Assets/Audio/ambience_ruangan.wav - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5202112277c55f2cbeb70053f402d4ba' -> (Import Result ID: '320a3dde6091517ac3f1d311206e3311') in 0.115 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f41e3a329f6033c9ddbd6ecd381b4afe DependenciesID=e29b6add73bce2565c93c9dab1dd2cd4 StaticDependenciesID=801d458662c271de7e5a1a104f670bda 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T03:01:54.8463685Z
+  Time since last request: 0.0000342 seconds.
+  importAddress: GUID: 79a0c1b5d72bfc748bc67ce6e4c6115b - Path: Assets/_Unity Essentials/Audio/Music/Music_Exciting.ogg - Importer: PreviewImporter
+Importing 'GUID: 79a0c1b5d72bfc748bc67ce6e4c6115b - Path: Assets/_Unity Essentials/Audio/Music/Music_Exciting.ogg - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 79a0c1b5d72bfc748bc67ce6e4c6115b' -> (Import Result ID: '2b3170293c58cc43d3263998a973b99f') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=91456e93f13164c4b0695fefc6a72295 DependenciesID=1f3d0dd76ffbbb5594afde6e95f107b4 StaticDependenciesID=17a99d7616adea012bd6977e99b8b7b7 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T03:01:54.8750883Z
+  Time since last request: 0.0004515 seconds.
+  importAddress: GUID: 6a2821146a2d54af2ad64ab60a857399 - Path: Assets/_Unity Essentials/Audio/Sound FX/Fridge_Hum.wav - Importer: PreviewImporter
+Importing 'GUID: 6a2821146a2d54af2ad64ab60a857399 - Path: Assets/_Unity Essentials/Audio/Sound FX/Fridge_Hum.wav - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 6a2821146a2d54af2ad64ab60a857399' -> (Import Result ID: 'ebac6436f2eb751bd873c7f9ecf170b4') in 0.027 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=814eaa10dc7c197ff701ad07ea42a42a DependenciesID=645048dc006ca8c82e3892b1a8498e75 StaticDependenciesID=e2a44199b63608ce0952deae5e0fd26c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-13T03:01:54.9093399Z
+  Time since last request: 0.0003627 seconds.
+  importAddress: GUID: 5768c9cd1ffad480392fb744d373bbf8 - Path: Assets/_Unity Essentials/Audio/Music/Music_Ethereal.ogg - Importer: PreviewImporter
+Importing 'GUID: 5768c9cd1ffad480392fb744d373bbf8 - Path: Assets/_Unity Essentials/Audio/Music/Music_Ethereal.ogg - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5768c9cd1ffad480392fb744d373bbf8' -> (Import Result ID: 'a793336e2c9db5a82f6e0235b909d913') in 0.032 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a5db3ac06db5006467d2cbddd04848a1 DependenciesID=01308e1664ce68e748ce2cfdf3c14b34 StaticDependenciesID=99f05310fcab2f0f5895f83411e79de0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
